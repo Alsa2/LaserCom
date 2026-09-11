@@ -2,7 +2,7 @@
 
 ## Project Owner
 
-**Name:** Alessandro Salvetti  
+**Name:** Alek
 **Platform:** Alchitry Au V2 FPGA
 
 ## Project Overview
